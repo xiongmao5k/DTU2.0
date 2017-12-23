@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1435</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1076</ColumnWidth1><ColumnWidth2>287</ColumnWidth2><ColumnWidth3>71</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>182</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7257-12533</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-6735-12543</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18006-12537</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>project</ExpandedNode><ExpandedNode>project/CORTEX-M4</ExpandedNode><ExpandedNode>project/startup</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28754-12540</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\msp432_driverlib_3_21_00_05\driverlib\MSP432P4xx\adc14.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\msp432_driverlib_3_21_00_05\driverlib\MSP432P4xx\pss.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\libcpu\arm\common\backtrace.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>29</YPos2><SelStart2>317</SelStart2><SelEnd2>317</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\msp432_driverlib_3_21_00_05\inc\system_msp432p401r.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\startup\startup_msp432p401r_gcc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>9</YPos2><SelStart2>3368</SelStart2><SelEnd2>3368</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\startup\system_msp432p401r.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>15015</SelStart2><SelEnd2>15015</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\libcpu\arm\cortex-m4\context_iar.S</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>31</YPos2><SelStart2>1502</SelStart2><SelEnd2>1502</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\rtconfig.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>269</SelStart2><SelEnd2>269</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\msp432_driverlib_3_21_00_05\driverlib\MSP432P4xx\cs.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>822</YPos2><SelStart2>23745</SelStart2><SelEnd2>23745</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\msp432_driverlib_3_21_00_05\driverlib\MSP432P4xx\systick.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>49</YPos2><SelStart2>2344</SelStart2><SelEnd2>2344</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\drivers\hw_serial.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>218</YPos2><SelStart2>7270</SelStart2><SelEnd2>7270</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\msp432_driverlib_3_21_00_05\driverlib\MSP432P4xx\interrupt.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>151</YPos2><SelStart2>4019</SelStart2><SelEnd2>4019</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\timer.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>455</YPos2><SelStart2>13219</SelStart2><SelEnd2>13219</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\components\drivers\serial\serial.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>93</YPos2><SelStart2>2240</SelStart2><SelEnd2>2240</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\components\drivers\src\pipe.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\components\drivers\src\completion.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>63</YPos2><SelStart2>644</SelStart2><SelEnd2>644</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\libcpu\arm\common\showmem.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>539</SelStart2><SelEnd2>539</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\msp432_driverlib_3_21_00_05\driverlib\MSP432P4xx\gpio.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>72</YPos2><SelStart2>920</SelStart2><SelEnd2>921</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\msp432_driverlib_3_21_00_05\driverlib\MSP432P4xx\driverlib.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>9</YPos2><SelStart2>410</SelStart2><SelEnd2>410</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\msp432_driverlib_3_21_00_05\driverlib\MSP432P4xx\uart.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>2403</SelStart2><SelEnd2>2403</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\msp432_driverlib_3_21_00_05\driverlib\MSP432P4xx\timer_a.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\components\drivers\src\workqueue.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>82</SelStart2><SelEnd2>105</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\components\drivers\src\portal.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\components\drivers\src\dataqueue.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>33</YPos2><SelStart2>515</SelStart2><SelEnd2>516</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\drivers\board.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>28</YPos2><SelStart2>1164</SelStart2><SelEnd2>1164</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\application\app-main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>155</YPos2><SelStart2>5939</SelStart2><SelEnd2>5939</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\startup\msp432_startup_ewarm.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>52</YPos2><SelStart2>2980</SelStart2><SelEnd2>2980</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\startup\startup-main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>274</YPos2><SelStart2>8129</SelStart2><SelEnd2>8129</SelEnd2></Tab><ActiveTab>27</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\thread.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>187</YPos2><SelStart2>6823</SelStart2><SelEnd2>6823</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\src\kservice.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1251</YPos2><SelStart2>31612</SelStart2><SelEnd2>31612</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00AC7468><key>iaridepm.enu1</key></Toolbar-00AC7468></Sizes></Row0><Row1><Sizes><Toolbar-22843330><key>debuggergui.enu1</key></Toolbar-22843330></Sizes></Row1></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>526</Bottom><Right>256</Right><x>-2</x><y>-2</y><xscreen>156</xscreen><yscreen>149</yscreen><sizeHorzCX>104418</sizeHorzCX><sizeHorzCY>200809</sizeHorzCY><sizeVertCX>172691</sizeVertCX><sizeVertCY>711590</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>526</Bottom><Right>154</Right><x>-2</x><y>-2</y><xscreen>156</xscreen><yscreen>149</yscreen><sizeHorzCX>104418</sizeHorzCX><sizeHorzCY>200809</sizeHorzCY><sizeVertCX>104418</sizeVertCX><sizeVertCY>711590</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>147</Bottom><Right>1496</Right><x>-2</x><y>-2</y><xscreen>1498</xscreen><yscreen>149</yscreen><sizeHorzCX>1002677</sizeHorzCX><sizeHorzCY>200809</sizeHorzCY><sizeVertCX>104418</sizeVertCX><sizeVertCY>200809</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

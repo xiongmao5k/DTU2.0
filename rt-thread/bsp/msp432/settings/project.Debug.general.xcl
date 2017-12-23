@@ -1,0 +1,15 @@
+"D:\software\IAR\arm\bin\armproc.dll" 
+
+"D:\software\IAR\arm\bin\armxds2.dll" 
+
+"D:\Ruhr\Xiongmao\对接\移交文件\RUHR_DTU2.0\代码\code_rtthread\rt-thread\bsp\msp432\Debug\Exe\template.out" 
+
+--plugin "D:\software\IAR\arm\bin\armbat.dll" 
+
+--device_macro "D:\software\IAR\arm\config\debugger\TexasInstruments\MSP432P401R.dmac" 
+
+--flash_loader "D:\software\IAR\arm\config\flashloader\TexasInstruments\FlashMSP432P401R.board" 
+
+
+
+
